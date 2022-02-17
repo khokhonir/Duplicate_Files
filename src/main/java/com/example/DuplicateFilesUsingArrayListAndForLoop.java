@@ -34,7 +34,7 @@ public class DuplicateFilesUsingArrayListAndForLoop {
                 }
             }
     }catch (Exception e) {
-            System.out.println(e.getMessage());
+            log.error(e.getMessage());
         }
     }
 }

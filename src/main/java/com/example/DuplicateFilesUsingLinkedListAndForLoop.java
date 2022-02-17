@@ -35,7 +35,7 @@ public class DuplicateFilesUsingLinkedListAndForLoop {
                 }
             }
     }catch (Exception e) {
-            System.out.println(e.getMessage());
+            log.error(e.getMessage());
         }
     }
 }

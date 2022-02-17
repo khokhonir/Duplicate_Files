@@ -1,8 +1,8 @@
-# Project Title : Retrive duplicate files from the File System
+# Retrieve duplicate files from the File System
 
-### Objective : Get duplicate files from the File System and compare the data structure
+### Objective : Get duplicate files from the File System and compare the data structures
 
-### Task :  Compare for loop, arrayList and LinkedList Data Structures
+### Task :  Compare Array, ArrayList and LinkedList Data Structures
 
 * Array is faster than ArrayList but consumes more memory
 Even though Arrays are faster than ArrayLists, fast execution consumes more 
