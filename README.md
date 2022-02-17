@@ -27,22 +27,21 @@ https://techdifferences.com/difference-between-arraylist-and-linkedlist-in-java.
 * Right click on the main class (DuplicateFilesMainClass.java) and press run
 
 ### Results :
-* Compared Files :
-    File Name| File Content
-    File1    | Testing1
-    File2    | Testing2
-    File3    | Testing2
+* Compared Files 
+
+![img_1.png](img_1.png)
+    
   
 * Data Structure Comparison
-   Speed Rate  | Data Structure | Processing Time in milliseconds
-   3 - Slower  | Array          | 402ms
-   1 - Fast    | ArrayList      | 7ms
-   2 - Average | LinkedList     | 10ms
+
+![img.png](img.png)
+
 
 * Unit Tests
   Test files are available under the test package
   
 * Console Results
+* 
 [main] INFO com.example.DuplicateFilesUsingArrayAndForLoop -
 Duplicate Files Using For Loop  and Array
 [main] INFO com.example.DuplicateFilesUsingArrayAndForLoop - The grouped duplicate file paths are : C:\dev\duplicateFiles\testingFiles\file2.txt and C:\dev\duplicateFiles\testingFiles\file3.txt
