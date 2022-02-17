@@ -29,19 +29,19 @@ https://techdifferences.com/difference-between-arraylist-and-linkedlist-in-java.
 ### Results :
 * Compared Files 
 
-![img_1.png](img_1.png)
+![img_3.png](img_3.png)
     
   
 * Data Structure Comparison
 
-![img.png](img.png)
+![img_2.png](img_2.png)
 
 
 * Unit Tests
   Test files are available under the test package
   
 * Console Results
-* 
+
 [main] INFO com.example.DuplicateFilesUsingArrayAndForLoop -
 Duplicate Files Using For Loop  and Array
 [main] INFO com.example.DuplicateFilesUsingArrayAndForLoop - The grouped duplicate file paths are : C:\dev\duplicateFiles\testingFiles\file2.txt and C:\dev\duplicateFiles\testingFiles\file3.txt
